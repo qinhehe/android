@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/F:/360Downloads/android/android02180021/05%20Activity&Intent/xmlDesign4/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">xml布局测试</string>
+    <string name="cancel">取消</string>
+    <string name="hello">您选择的答案是：</string>
+    <string name="other">otherActivity</string>
+    <string name="question">你有几本书</string>
+    <string name="sure">确定</string>
+</resources>
